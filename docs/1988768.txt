@@ -1,6 +1,8 @@
 ## [unreleased]
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/1988768.txt` (#28)
 
+## [unreleased]
+- CHANGED: Fixed low-severity UPPERCASE bug in `data/1988768.txt` (#29)
 
 ### Added
 

@@ -1,8 +1,12 @@
+## [unreleased]
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
 ## [Unreleased]
 - CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (#2)
 
 ### Changed
-- Fixed high-severity `XXXXXXX` insertion in `data/1983157.txt`
+- Fixed high-severity `XXXXXXX` insertion in `data/1983157.txt`. Closes (#63)
+
+- Fixed low severity uppercase word error in `data/1983157.txt`. Closes (#64)
 
 ### Added
 

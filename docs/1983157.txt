@@ -3,6 +3,9 @@
 ### Changed
 - Fixed high-severity `XXXXXXX` insertion in `data/1983157.txt`. Closes (#63)
 
+- Fixed low-severity uppercase word issue in `data/1983157.txt`. Closes (#64)
+
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors

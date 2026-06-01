@@ -1,3 +1,8 @@
+## [Unreleased]
+### Changed
+- Fixed high-severity XXXXXXX bug in `data/3204028.txt` (#93)
+### Changed
+- Fixed low-severity UPPERCASE formatting in data/3204028.txt (#95)
 ## [unreleased]
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
 ## [Unreleased]

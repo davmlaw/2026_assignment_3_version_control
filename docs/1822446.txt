@@ -13,3 +13,7 @@
 ### Added
 
 - Initial commit
+
+### Changed
+
+- Removed high severity 'XXXXXXX' bug in data/1822446

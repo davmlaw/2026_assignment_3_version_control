@@ -16,4 +16,6 @@
 
 ### Changed
 
-- Removed high severity 'XXXXXXX' bug in data/1822446
+- Removed high severity 'XXXXXXX' bug in data/1822446.txt
+
+- Fixed low severity bug in data/1822446.txt (uppercase words)

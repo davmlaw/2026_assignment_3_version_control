@@ -1,8 +1,8 @@
 ## [Unreleased]
+- CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (See Issue at https://github.com/davmlaw/2026_assignment_3_version_control/issues/25)
 
 ## Changed
-- CHANGED: Fixed high-severity XXXXXXX bug in 'data/1925587.txt' (#1)
-- CHANGED: Fixed low-severity UPPERCASE words in 'data/1925587.txt' (#2)
+- CHANGED: Fixed high-severity XXXXXXX bug in 'data/1925587.txt' (see Issue at https://github.com/davmlaw/2026_assignment_3_version_control/issues/24)
 
 ## - 2026-05-29
 

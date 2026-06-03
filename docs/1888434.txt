@@ -5,6 +5,10 @@
 
 ### Fixed
 
+- Fixed Low severity bug changing captilized words to lowercase on lines 1 and 5
+
+### Fixed
+
 - Fixed High severity bug by removing multiple instances of XXXXXX in line 1
 
 ### Added

@@ -15,6 +15,12 @@
 - Initial commit
 
 ### Changed
-- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1926036.txt`
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/1926036.txt`
 - Date of change 27-05-2026
 - Link to issue (https://github.com/davmlaw/2026_assignment_3_version_control/issues/16)
+
+### Changed 
+- CHANGED: Fixed low severity UPPERCASE bug in `data/1926036.txt`
+- Date of change 04-06-2026
+- Link to issue (https://github.com/davmlaw/2026_assignment_3_version_control/issues/17)
+

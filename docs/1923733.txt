@@ -1,3 +1,8 @@
+## [0.1.2] - 2026-06-05
+
+###changed 
+- Fixed[issue#116] low-severity UPPERCASE WORDING in 'data/1923733.txt'
+
 ### Changed
  - Fixed[issue#115] high-severity XXXXXXX bug in 'data/1923733.txt'
 

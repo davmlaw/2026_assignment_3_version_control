@@ -3,6 +3,7 @@
 ### Changed
 
 - Fixed high-severity XXXXXXX bug in `data/1851925.txt` (#202)
+- Fixed low-severity UPPERCASE words in `data/1851925.txt` (#203)
 
 ### Added
 

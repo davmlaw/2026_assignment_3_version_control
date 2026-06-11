@@ -1,3 +1,9 @@
+## [Unreleased]
+
+### Changed
+
+- Removed high-severity XXXXXXX insertions in `data/1915786.txt` (#214)
+
 ## [unreleased]
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
 ## [Unreleased]

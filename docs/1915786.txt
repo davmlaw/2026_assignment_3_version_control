@@ -1,6 +1,7 @@
 ## [Unreleased]
 
 ### Changed
+- Restored lowercase words in `data/1915786.txt` (#215)
 
 - Removed high-severity XXXXXXX insertions in `data/1915786.txt` (#214)
 

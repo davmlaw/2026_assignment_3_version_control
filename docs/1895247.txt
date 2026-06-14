@@ -1,9 +1,6 @@
 ## [unreleased]
-- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
-## [Unreleased]
-- CHANGED: Fixed low-severity UPPERCASE words in `data/a1885087.txt` (#2)
-
-
+- CHANGED: Fixed high-severity XXXXXXX bug in `data/a1895247.txt` (#60)
+- CHANGED: Fixed low-severity UPPERCASE words in `data/1895247.txt` (#62)
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors

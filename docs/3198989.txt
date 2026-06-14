@@ -1,3 +1,6 @@
+## [Unreleased]
+- CHANGED: Corrected miscapitalized UPPERCASE words back to lowercase format in data/3198989.txt, linking to upstream issue #99
+- CHANGED: Fixed high severity placeholder bug in data/3198989.txt, linking to upstream issue #98
 ## [unreleased]
 - CHANGED: Fixed high-severity XXXXXXX bug in `data/a1885087.txt` (#1)
 ## [Unreleased]
